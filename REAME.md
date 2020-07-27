@@ -19,4 +19,4 @@
 
 ## Support and contact details
 contact me provic13@gmail.com
-#### licence and copyright informatioN, LICENCED UNDER MIT ()
+#### licence and copyright informatioN, LICENCED UNDER MIT (https://github.com/victor-mirgichan/delani-studio/blob/master/LICENCE)
