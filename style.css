@@ -39,12 +39,16 @@
     font-family: 'Copse', serif;
     font-size: 18px;
 }
+#portfolio{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-right:10%;
+}
 .form1{
     background-image: url(images/backgrounds/c_image.jpg);
     background-position: center;
 }
-
-
 #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
     display: none;
     color: black;
