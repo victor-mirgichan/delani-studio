@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Copse|Delius+Swash+Caps|Gabriela|Unkempt&display=swap');
 .landingpg{
-    background-image: url('../images/backgrounds/h_img.jpg');
+    background-image: url(./images/backgrounds/h_img.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
