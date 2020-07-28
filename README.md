@@ -3,11 +3,10 @@
 #### Author: Victor Fereiti Mirgichan 
 
 ### Description: This is a portfolio website of delani studio.
-### A Link to published site [https://victor-mirgichan.github.io/Akan-name/]
+### A Link to published site [https://victor-mirgichan.github.io/delani-studio/]
 
 
-### project setup instruction: 
-
+![screenshoot1](./images/delaniscreenshot.png)
 
 
 ## Technologies Used
